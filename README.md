@@ -26,6 +26,8 @@ THEN you are presented with a responsive layout that adapts to my viewport.
 
 ## Links to project: <a href="https://github.com/AndreBlankholm/good-choice-portfolio">GitHub Web Page</a> and <a href="https://andreblankholm.github.io/good-choice-portfolio/">Live Public URL</a>
 
+<img src="./assets/images/screenshot.png" alt="screenshot of a profile and portfolio of jr developer web designs">
+
 ##
  License & copyright
 © Andre Blankholm, U of M Coding Bootcamp
