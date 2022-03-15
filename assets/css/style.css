@@ -130,6 +130,10 @@ body {
   
 }
 
+.large-app img {
+  border: 3px solid var(--secondary-color);
+}
+
 .projects{
   flex: 5;
 
@@ -140,7 +144,7 @@ body {
   flex: 5;
   font-size: 20px;
   margin: 20px;
-  justify-content: space-around;
+  justify-content:space-evenly;
 }
 
 .item {
@@ -160,11 +164,17 @@ body {
 
 .projects img {
   width: 95%;
-  
-  
+
 }
 
 
 .apps {
   display: flex;
+  
 }
+
+.apps img {
+  height: 75%;
+  border: 3px solid var(--secondary-color);
+}
+
