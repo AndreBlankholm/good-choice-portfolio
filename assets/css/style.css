@@ -84,6 +84,9 @@ header nav ul li a:hover {
   border-radius: 50%;
   margin: 20px;
 }
+
+
+
 #get {
   color: var(--third-color);
   background-color: var(--secondary-color);
@@ -126,12 +129,42 @@ body {
 }
 
 .apps-row-one {
+  position:relative;
   margin: 0 0 15px 0;
+  height: fit-content;
 }
 
 .apps-row-one img {
   border: 3px solid var(--secondary-color);
 }
+
+#run-buddy {
+  margin-top: 460px;
+  color: var(--primary-color);
+  background-color: var(--secondary-color);
+  height: 50px;
+  font-size: 30px;
+  border: 3px solid rgba(38, 99, 117, 0.337)
+}
+
+#horiseon {
+  background-color: var(--secondary-color);
+  color: var(--primary-color);
+  margin-top: 190px;
+  font-size: 35px;
+  border: 3px solid rgba(38, 99, 117, 0.337);
+}
+
+
+#horiseon2 {
+  background-color: var(--secondary-color);
+  color: var(--primary-color);
+  margin-top: 190px;
+  margin-left: 20px;
+  font-size: 35px;
+  border: 3px solid rgba(38, 99, 117, 0.337);
+}
+
 
 .projects {
   flex: 5;
@@ -164,8 +197,14 @@ body {
   width: 95%;
 }
 
+.tags {
+  position: absolute;
+  top:0;
+}
+
 .apps-row-two {
   display: flex;
+  position: relative;
 }
 
 .image-left-margin {
@@ -185,6 +224,7 @@ body {
 
 .apps-row-three {
   display: flex;
+  position: relative;
 }
 
 .apps-row-three div img {
