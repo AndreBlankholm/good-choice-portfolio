@@ -28,6 +28,4 @@ THEN you are presented with a responsive layout that adapts to my viewport.
 
 <img src="./assets/images/screenshot2.png" alt=" screenshot of a students Web Develpoer profile.">
 
-##
- License & copyright
-© Andre Blankholm, U of M Coding Bootcamp
+## License & copyright© Andre Blankholm, U of M Coding Bootcamp
